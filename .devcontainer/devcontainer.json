@@ -1,0 +1,9 @@
+{
+    "name": "Devcontainer Spring Boot",
+    "image": "mcr.microsoft.com/devcontainers/java:dev-21-jdk-bullseye",
+    "customizations": {
+    "vscode": {
+      "extensions": ["vmware.vscode-boot-dev-pack"]
+    }
+  }
+}
